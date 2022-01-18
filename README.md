@@ -90,50 +90,6 @@ Abaixo seguem algumas idéias, não necessariamente precisa-se seguir conforme d
     
     ![Untitled](img/Untitled%208.png)
     
-
-## Dicas
-
-Para ajudar na construção da tela, abaixo segue algumas dicas e links de tutoriais para ajudar ou pelo menos dar o caminho das pedras, mas não fique preso só a essas dicas, vá além, você é capaz.
-
-Essas dicas não tem o intuito de copiar e colar, mas de se ter uma ideia de como fazer e, caso utilize as dicas, entender o porque está sendo utilizado.
-
-- Display grid, nessas áreas serão os blocos que deverá construir com o display grid. Esse [site](https://grid.layoutit.com/) irá lhe ajuda a gerar essas grid e ter uma ideia melhor de como fazer.
-    
-    ![Untitled](img/Untitled%209.png)
-    
-    Nesse trecho abaixo também pode-se utilizar grid, mas usar display flex é mais aconselhável.
-    
-    ![Untitled](img/Untitled%2010.png)
-    
-    Cuidado para não sair colocando display grid em lugares desnecessários, entenda a utilização de quando usar o grid ou o flex.
-    
-- Sobre o gráfico de monitoramento.
-    
-    ![Untitled](img/Untitled%2011.png)
-    
-    Aqui tem um pequeno video que dará uma ideia de como implementar:
-    
-    [https://www.youtube.com/watch?v=2qDDLhIMqW0](https://www.youtube.com/watch?v=2qDDLhIMqW0)
-    
-- Calendário.
-    
-    ![Untitled](img/Untitled%2012.png)
-    
-    Neste [link](https://divtable.com/generator/), você terá um gerador de código onde poderá lhe ajudar a ter uma ideia melhor de como utilizar a table ou o display table. Selecione a opção que for a mais fácil para você. 
-    
-    Neste video tem uma ideia de como implementar um calendário utilizando ul e li, é uma outra abordagem, fique a vontade em escolhe-las.
-    
-    [https://youtu.be/MRu35NZSmJw](https://youtu.be/MRu35NZSmJw)
-    
-- Exames Concluídos/Andamento.
-    
-    ![Untitled](img/Untitled%2013.png)
-    
-    Aqui um video exemplificando:
-    
-    [https://youtu.be/vd1-KZsHzkQ](https://youtu.be/vd1-KZsHzkQ)
-    
-
 # Conclusão
 
 Boa sorte e se divirta... 
